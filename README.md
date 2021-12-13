@@ -1,5 +1,5 @@
 # DS1307
-*STM32* Low Layer(LL) library. DS1307 serial real-time clock (RTC) is a low power, full binary-coded decimal (BCD) clock/calendar
+**STM32** Low Layer(LL) library. DS1307 serial real-time clock (RTC) is a low power, full binary-coded decimal (BCD) clock/calendar
 plus 56 bytes of NV SRAM.
 
 <img src="https://github.com/ximtech/DS1307/blob/main/example/ds1307.PNG" alt="image" width="300"/>
